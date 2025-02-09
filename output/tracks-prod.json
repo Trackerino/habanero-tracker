@@ -1,0 +1,506 @@
+[
+   {
+      "gameId": "fortnite",
+      "trackguid": "0c3an5",
+      "rankingType": "ranked-zb",
+      "beginTime": "2024-03-09T00:00:00Z",
+      "endTime": "2024-04-13T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season33"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "0vr11t",
+      "rankingType": "ranked-zb",
+      "beginTime": "2023-06-20T00:01:00Z",
+      "endTime": "2023-06-20T01:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season27"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "2776dc",
+      "rankingType": "ranked-br",
+      "beginTime": "2023-04-01T00:00:00Z",
+      "endTime": "2023-05-01T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season25V2"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "7331kh",
+      "rankingType": "ranked-zb",
+      "beginTime": "2023-07-30T00:01:00Z",
+      "endTime": "2023-09-30T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season29"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "8f90e9",
+      "rankingType": "ranked-br",
+      "beginTime": "2023-05-02T00:01:00Z",
+      "endTime": "2023-06-19T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season26"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "8R1GHT",
+      "rankingType": "ranked-bling",
+      "beginTime": "2025-02-09T00:00:00Z",
+      "endTime": "2025-06-21T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "9d7ebd",
+      "rankingType": "ranked-zb",
+      "beginTime": "2023-04-01T00:00:00Z",
+      "endTime": "2023-05-01T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season25V2"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "9e56a1",
+      "rankingType": "ranked-zb",
+      "beginTime": "2023-05-02T00:01:00Z",
+      "endTime": "2023-06-19T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season26"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "a1m0n3",
+      "rankingType": "ranked-zb",
+      "beginTime": "2023-12-03T23:59:00Z",
+      "endTime": "2024-03-08T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season32"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "c4n4d4",
+      "rankingType": "ranked-br",
+      "beginTime": "2023-06-20T00:02:00Z",
+      "endTime": "2023-09-30T23:59:01Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season28"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "ch3353",
+      "rankingType": "ranked-br",
+      "beginTime": "2023-12-03T23:59:00Z",
+      "endTime": "2024-03-08T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season31"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "cr1313",
+      "rankingType": "ranked-br",
+      "beginTime": "2023-11-03T00:01:00Z",
+      "endTime": "2023-12-03T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season30"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "d12345",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-03-30T00:00:00Z",
+      "endTime": "2023-03-31T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_dm_season28"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "D13tDw",
+      "rankingType": "ranked-zb",
+      "beginTime": "2024-09-15T05:00:00Z",
+      "endTime": "2024-11-11T20:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dev_track",
+      "rankingType": "ranked",
+      "beginTime": "2023-04-01T00:00:00Z",
+      "endTime": "2023-10-01T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dm4p84",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-10-17T00:00:00Z",
+      "endTime": "2023-11-03T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dm4xbf",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-06-29T19:10:00Z",
+      "endTime": "2023-06-29T22:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dm69ct",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-09-26T00:00:00Z",
+      "endTime": "2023-10-17T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dm6n7o",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-06-27T17:30:00Z",
+      "endTime": "2023-06-28T22:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dm95gm",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-06-29T22:10:00Z",
+      "endTime": "2023-09-26T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dmbdsg",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-06-26T00:00:00Z",
+      "endTime": "2023-06-27T17:30:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dmd372",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-11-03T00:00:00Z",
+      "endTime": "2024-04-01T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dmg5r3",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-04-01T00:00:00Z",
+      "endTime": "2023-06-26T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_rr_season3_1"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dmh6ns",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-06-29T14:15:00Z",
+      "endTime": "2023-06-29T18:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "dmjrc9",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2023-06-28T22:00:00Z",
+      "endTime": "2023-06-29T13:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "DR3AM5",
+      "rankingType": "ranked-figment-nobuild",
+      "beginTime": "2024-12-16T14:00:00Z",
+      "endTime": "2025-01-15T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_figment_zb_season33"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "Fr3SkA",
+      "rankingType": "ranked-br",
+      "beginTime": "2024-09-15T05:00:00Z",
+      "endTime": "2024-11-11T20:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "G0LD3N",
+      "rankingType": "ranked-figment-nobuild",
+      "beginTime": "2025-01-16T00:00:00Z",
+      "endTime": "2025-05-21T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_figment_zb_season34"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "G4RL1C",
+      "rankingType": "ranked-feral",
+      "beginTime": "2024-10-20T18:00:00Z",
+      "endTime": "2025-04-01T04:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_feral_season33"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "GL055Y",
+      "rankingType": "ranked-bling-nobuild",
+      "beginTime": "2025-02-09T00:00:00Z",
+      "endTime": "2025-06-21T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "Gl4ss1",
+      "rankingType": "ranked-br",
+      "beginTime": "2024-11-11T21:00:00Z",
+      "endTime": "2025-01-14T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "h1tm76",
+      "rankingType": "ranked-zb",
+      "beginTime": "2023-06-20T00:01:00Z",
+      "endTime": "2023-07-29T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season28"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "L1GHT5",
+      "rankingType": "ranked-zb",
+      "beginTime": "2024-04-14T00:00:00Z",
+      "endTime": "2024-07-26T17:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season34"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "l33thk",
+      "rankingType": "ranked-br",
+      "beginTime": "2023-06-20T00:01:00Z",
+      "endTime": "2023-06-20T00:01:01Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season27"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "L4nC3r",
+      "rankingType": "ranked_blastberry_nobuild",
+      "beginTime": "2024-07-26T00:00:00Z",
+      "endTime": "2024-10-12T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_blastberry_zb_season31"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "M3M0RY",
+      "rankingType": "ranked-figment-build",
+      "beginTime": "2024-12-16T14:00:00Z",
+      "endTime": "2025-01-15T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_figment_build_season33"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "M4rC4S",
+      "rankingType": "ranked_blastberry_build",
+      "beginTime": "2024-07-26T00:00:00Z",
+      "endTime": "2024-10-12T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_blastberry_build_season31"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "N4PK1N",
+      "rankingType": "ranked-br",
+      "beginTime": "2024-04-14T00:00:00Z",
+      "endTime": "2024-07-26T17:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season33"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "P0T4T0",
+      "rankingType": "ranked-zb",
+      "beginTime": "2024-07-26T18:00:00Z",
+      "endTime": "2024-09-14T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "P3PP3R",
+      "rankingType": "ranked_blastberry_build",
+      "beginTime": "2024-10-13T00:00:00Z",
+      "endTime": "2025-01-13T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_blastberry_build_season32"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "R3M0TE",
+      "rankingType": "ranked-br",
+      "beginTime": "2024-03-09T00:00:00Z",
+      "endTime": "2024-04-13T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season32"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "rr9qlw",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2024-09-20T00:00:00Z",
+      "endTime": "2024-11-19T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "rrhr6d",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2024-11-19T00:00:00Z",
+      "endTime": "2025-12-18T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "rrwpwg",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2024-04-01T00:00:01Z",
+      "endTime": "2024-07-19T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "rrzuel",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2024-07-19T00:00:00Z",
+      "endTime": "2024-09-20T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "RU5T3D",
+      "rankingType": "ranked-figment-build",
+      "beginTime": "2025-01-16T00:00:00Z",
+      "endTime": "2025-05-21T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_figment_build_season34"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "s4dn35",
+      "rankingType": "ranked-zb",
+      "beginTime": "2023-11-03T00:01:00Z",
+      "endTime": "2023-12-03T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season31"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "S4LT3D",
+      "rankingType": "ranked-br",
+      "beginTime": "2024-07-26T18:00:00Z",
+      "endTime": "2024-09-14T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season34"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "S4ngu1",
+      "rankingType": "ranked-br",
+      "beginTime": "2025-01-15T00:00:00Z",
+      "endTime": "2025-09-14T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "SP1C3",
+      "rankingType": "ranked_blastberry_nobuild",
+      "beginTime": "2025-01-14T00:00:00Z",
+      "endTime": "2026-03-01T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_blastberry_zb_season33"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "SP1D3R",
+      "rankingType": "ranked-zb",
+      "beginTime": "2024-11-11T21:00:00Z",
+      "endTime": "2025-01-14T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "SUG4R",
+      "rankingType": "ranked_blastberry_build",
+      "beginTime": "2025-01-14T23:00:00Z",
+      "endTime": "2025-12-01T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_blastberry_build_season33"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "t7a6c0",
+      "rankingType": "ranked-zb",
+      "beginTime": "2023-10-03T00:01:00Z",
+      "endTime": "2023-10-31T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_zb_season30"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "v1x322",
+      "rankingType": "ranked-br",
+      "beginTime": "2023-10-03T00:01:00Z",
+      "endTime": "2023-10-31T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season29"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "vidr1o",
+      "rankingType": "ranked-zb",
+      "beginTime": "2025-01-15T00:00:00Z",
+      "endTime": "2025-09-14T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "W4FFL3",
+      "rankingType": "ranked_blastberry_nobuild",
+      "beginTime": "2024-10-13T00:00:00Z",
+      "endTime": "2025-01-13T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_blastberry_zb_season32"
+   }
+]
