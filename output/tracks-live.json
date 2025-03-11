@@ -10,6 +10,15 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "8R1GHT",
+      "rankingType": "ranked-bling",
+      "beginTime": "2025-03-11T08:00:00Z",
+      "endTime": "2025-04-01T23:59:59Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "9d7ebd",
       "rankingType": "ranked-zb",
       "beginTime": "2023-04-01T00:00:00Z",
@@ -124,6 +133,15 @@
       "endTime": "2023-08-25T07:00:00Z",
       "divisionCount": 18,
       "eventId": "epicgames_ranked_br_season26"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "GL055Y",
+      "rankingType": "ranked-bling-nobuild",
+      "beginTime": "2025-03-11T08:00:00Z",
+      "endTime": "2025-04-01T23:59:59Z",
+      "divisionCount": 18,
+      "eventId": null
    },
    {
       "gameId": "fortnite",
