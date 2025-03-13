@@ -127,6 +127,15 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "D3F3AT",
+      "rankingType": "ranked-figment-build",
+      "beginTime": "2025-03-13T00:00:00Z",
+      "endTime": "2025-05-21T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "dev_track",
       "rankingType": "ranked",
       "beginTime": "2023-04-01T00:00:00Z",
