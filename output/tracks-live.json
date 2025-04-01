@@ -13,7 +13,7 @@
       "trackguid": "8R1GHT",
       "rankingType": "ranked-bling",
       "beginTime": "2025-03-11T08:00:00Z",
-      "endTime": "2025-04-01T23:59:59Z",
+      "endTime": "2025-04-01T08:01:00Z",
       "divisionCount": 18,
       "eventId": "epicgames_ranked_bling_build_season34"
    },
@@ -157,7 +157,7 @@
       "trackguid": "GL055Y",
       "rankingType": "ranked-bling-nobuild",
       "beginTime": "2025-03-11T08:00:00Z",
-      "endTime": "2025-04-01T23:59:59Z",
+      "endTime": "2025-04-01T08:01:00Z",
       "divisionCount": 18,
       "eventId": "epicgames_ranked_bling_zb_season34"
    },
