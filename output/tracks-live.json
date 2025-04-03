@@ -6,7 +6,7 @@
       "beginTime": "2023-04-01T00:00:00Z",
       "endTime": "2023-06-20T08:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season25"
    },
    {
       "gameId": "fortnite",
@@ -15,7 +15,7 @@
       "beginTime": "2025-03-11T08:00:00Z",
       "endTime": "2025-04-01T08:01:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_bling_build_season34"
    },
    {
       "gameId": "fortnite",
@@ -24,7 +24,7 @@
       "beginTime": "2023-04-01T00:00:00Z",
       "endTime": "2023-06-20T08:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season25"
    },
    {
       "gameId": "fortnite",
@@ -33,7 +33,7 @@
       "beginTime": "2024-03-08T10:30:00Z",
       "endTime": "2024-05-24T10:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season30"
    },
    {
       "gameId": "fortnite",
@@ -42,7 +42,7 @@
       "beginTime": "2023-06-20T13:00:00Z",
       "endTime": "2023-08-25T07:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season26"
    },
    {
       "gameId": "fortnite",
@@ -51,7 +51,7 @@
       "beginTime": "2024-03-08T10:30:00Z",
       "endTime": "2024-05-24T10:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season30"
    },
    {
       "gameId": "fortnite",
@@ -60,7 +60,7 @@
       "beginTime": "2023-12-03T08:00:18Z",
       "endTime": "2024-03-08T08:00:17Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season29"
    },
    {
       "gameId": "fortnite",
@@ -96,7 +96,7 @@
       "beginTime": "2023-12-07T00:00:18Z",
       "endTime": "2024-04-09T08:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_dm_season28"
    },
    {
       "gameId": "fortnite",
@@ -105,7 +105,7 @@
       "beginTime": "2024-12-16T14:00:00Z",
       "endTime": "2025-01-31T10:29:59Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_figment_zb_season33"
    },
    {
       "gameId": "fortnite",
@@ -114,7 +114,7 @@
       "beginTime": "2023-12-03T08:00:18Z",
       "endTime": "2024-03-08T08:00:17Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season29"
    },
    {
       "gameId": "fortnite",
@@ -132,7 +132,7 @@
       "beginTime": "2025-01-31T10:30:00Z",
       "endTime": "2025-03-25T08:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_figment_zb_season34"
    },
    {
       "gameId": "fortnite",
@@ -141,7 +141,7 @@
       "beginTime": "2024-12-11T14:00:00Z",
       "endTime": "2026-02-21T23:59:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_feral_season33"
    },
    {
       "gameId": "fortnite",
@@ -150,7 +150,7 @@
       "beginTime": "2023-06-20T13:00:00Z",
       "endTime": "2023-08-25T07:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season26"
    },
    {
       "gameId": "fortnite",
@@ -159,7 +159,7 @@
       "beginTime": "2025-03-11T08:00:00Z",
       "endTime": "2025-04-01T08:01:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_bling_zb_season34"
    },
    {
       "gameId": "fortnite",
@@ -168,7 +168,7 @@
       "beginTime": "2024-12-01T06:00:06Z",
       "endTime": "2025-02-21T08:59:59Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season33"
    },
    {
       "gameId": "fortnite",
@@ -177,7 +177,7 @@
       "beginTime": "2023-08-25T07:00:00Z",
       "endTime": "2023-11-02T07:00:17Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season27"
    },
    {
       "gameId": "fortnite",
@@ -186,7 +186,7 @@
       "beginTime": "2023-11-02T07:00:18Z",
       "endTime": "2023-12-03T08:00:17Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season28"
    },
    {
       "gameId": "fortnite",
@@ -195,7 +195,7 @@
       "beginTime": "2024-05-24T10:00:01Z",
       "endTime": "2024-08-16T04:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season31"
    },
    {
       "gameId": "fortnite",
@@ -204,7 +204,7 @@
       "beginTime": "2024-09-24T13:00:00Z",
       "endTime": "2024-11-02T06:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_blastberry_zb_season31"
    },
    {
       "gameId": "fortnite",
@@ -213,7 +213,7 @@
       "beginTime": "2024-12-16T14:00:00Z",
       "endTime": "2025-01-31T10:29:59Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_figment_build_season33"
    },
    {
       "gameId": "fortnite",
@@ -222,7 +222,7 @@
       "beginTime": "2024-09-24T13:00:00Z",
       "endTime": "2024-11-02T06:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_blastberry_build_season31"
    },
    {
       "gameId": "fortnite",
@@ -231,7 +231,7 @@
       "beginTime": "2024-05-24T10:00:01Z",
       "endTime": "2024-08-16T04:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season31"
    },
    {
       "gameId": "fortnite",
@@ -240,7 +240,7 @@
       "beginTime": "2023-11-02T07:00:18Z",
       "endTime": "2023-12-03T08:00:17Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season28"
    },
    {
       "gameId": "fortnite",
@@ -249,7 +249,7 @@
       "beginTime": "2024-08-16T04:00:01Z",
       "endTime": "2024-11-02T06:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season32"
    },
    {
       "gameId": "fortnite",
@@ -258,7 +258,7 @@
       "beginTime": "2024-11-02T06:00:01Z",
       "endTime": "2025-02-11T13:59:59Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_blastberry_build_season32"
    },
    {
       "gameId": "fortnite",
@@ -294,7 +294,7 @@
       "beginTime": "2024-04-09T08:00:01Z",
       "endTime": "2024-07-23T06:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_rr_season5"
    },
    {
       "gameId": "fortnite",
@@ -312,7 +312,7 @@
       "beginTime": "2025-01-31T10:30:00Z",
       "endTime": "2025-03-25T08:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_figment_build_season34"
    },
    {
       "gameId": "fortnite",
@@ -321,7 +321,7 @@
       "beginTime": "2024-08-16T04:00:01Z",
       "endTime": "2024-11-02T06:00:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season32"
    },
    {
       "gameId": "fortnite",
@@ -330,7 +330,7 @@
       "beginTime": "2025-02-21T09:00:00Z",
       "endTime": "2025-05-02T23:59:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_br_season34"
    },
    {
       "gameId": "fortnite",
@@ -339,7 +339,7 @@
       "beginTime": "2025-02-11T14:00:00Z",
       "endTime": "2025-04-15T23:59:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_blastberry_zb_season33"
    },
    {
       "gameId": "fortnite",
@@ -348,7 +348,7 @@
       "beginTime": "2024-12-01T06:00:06Z",
       "endTime": "2025-02-21T08:59:59Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season33"
    },
    {
       "gameId": "fortnite",
@@ -357,7 +357,7 @@
       "beginTime": "2025-02-11T14:00:00Z",
       "endTime": "2025-04-15T23:59:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_blastberry_build_season33"
    },
    {
       "gameId": "fortnite",
@@ -366,7 +366,7 @@
       "beginTime": "2025-02-21T09:00:00Z",
       "endTime": "2025-05-02T23:59:00Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season34"
    },
    {
       "gameId": "fortnite",
@@ -375,7 +375,7 @@
       "beginTime": "2024-11-02T06:00:01Z",
       "endTime": "2025-02-11T13:59:59Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_blastberry_zb_season32"
    },
    {
       "gameId": "fortnite",
@@ -384,6 +384,6 @@
       "beginTime": "2023-08-25T07:00:00Z",
       "endTime": "2023-11-02T07:00:17Z",
       "divisionCount": 18,
-      "eventId": null
+      "eventId": "epicgames_ranked_zb_season27"
    }
 ]
