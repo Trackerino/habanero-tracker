@@ -397,6 +397,15 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "Pr1c3s",
+      "rankingType": "ranked-br",
+      "beginTime": "2025-04-13T00:00:00Z",
+      "endTime": "2025-11-14T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "QU3ST",
       "rankingType": "ranked_blastberry_build",
       "beginTime": "2025-03-25T00:00:00Z",
