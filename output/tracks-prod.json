@@ -451,6 +451,15 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "rrg9wp",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2025-04-12T00:00:00Z",
+      "endTime": "2025-12-29T00:00:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "rrhr6d",
       "rankingType": "delmar-competitive",
       "beginTime": "2024-11-19T00:00:00Z",
