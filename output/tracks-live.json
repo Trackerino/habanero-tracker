@@ -271,6 +271,15 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "QU3ST",
+      "rankingType": "ranked_blastberry_build",
+      "beginTime": "2025-04-15T11:00:00Z",
+      "endTime": "2025-07-22T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_blastberry_build_season34"
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "rr36y9",
       "rankingType": "delmar-competitive",
       "beginTime": "2025-02-21T08:00:00Z",
