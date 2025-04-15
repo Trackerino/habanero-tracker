@@ -346,7 +346,7 @@
       "trackguid": "SP1C3",
       "rankingType": "ranked_blastberry_nobuild",
       "beginTime": "2025-02-11T14:00:00Z",
-      "endTime": "2025-04-15T23:59:00Z",
+      "endTime": "2025-04-15T06:59:00Z",
       "divisionCount": 18,
       "eventId": "epicgames_ranked_blastberry_zb_season33"
    },
@@ -364,7 +364,7 @@
       "trackguid": "SUG4R",
       "rankingType": "ranked_blastberry_build",
       "beginTime": "2025-02-11T14:00:00Z",
-      "endTime": "2025-04-15T23:59:00Z",
+      "endTime": "2025-04-15T06:59:00Z",
       "divisionCount": 18,
       "eventId": "epicgames_ranked_blastberry_build_season33"
    },
