@@ -280,6 +280,15 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "Pr1c3s",
+      "rankingType": "ranked-br",
+      "beginTime": "2025-05-02T08:00:01Z",
+      "endTime": "2025-06-07T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": "epicgames_ranked_br_season35"
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "QU3ST",
       "rankingType": "ranked_blastberry_build",
       "beginTime": "2025-04-15T11:00:00Z",
@@ -364,7 +373,7 @@
       "trackguid": "S4ngu1",
       "rankingType": "ranked-br",
       "beginTime": "2025-02-21T09:00:00Z",
-      "endTime": "2025-05-02T23:59:00Z",
+      "endTime": "2025-05-02T08:00:00Z",
       "divisionCount": 18,
       "eventId": "epicgames_ranked_br_season34"
    },
@@ -400,7 +409,7 @@
       "trackguid": "vidr1o",
       "rankingType": "ranked-zb",
       "beginTime": "2025-02-21T09:00:00Z",
-      "endTime": "2025-05-02T23:59:00Z",
+      "endTime": "2025-05-02T08:00:00Z",
       "divisionCount": 18,
       "eventId": "epicgames_ranked_zb_season34"
    },
