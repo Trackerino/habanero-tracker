@@ -64,6 +64,15 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "8UFF3D",
+      "rankingType": "ranked-feral",
+      "beginTime": "2025-05-28T00:00:00Z",
+      "endTime": "2025-11-01T23:59:00Z",
+      "divisionCount": 18,
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "9d7ebd",
       "rankingType": "ranked-zb",
       "beginTime": "2023-04-01T00:00:00Z",
