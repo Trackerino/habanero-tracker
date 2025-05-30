@@ -661,6 +661,16 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "T1cK3t",
+      "rankingType": "ranked_blastberry_nobuild",
+      "beginTime": "2025-06-15T04:00:00Z",
+      "endTime": "2026-03-01T23:59:00Z",
+      "divisionCount": 18,
+      "leaderboardTrackingEventId": "epicgames_ranked_blastberry_zb_season36",
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "t7a6c0",
       "rankingType": "ranked-zb",
       "beginTime": "2023-10-03T00:01:00Z",
