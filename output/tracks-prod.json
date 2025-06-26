@@ -181,6 +181,16 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "d0gg1e",
+      "rankingType": "ranked-zb",
+      "beginTime": "2025-08-08T00:00:00Z",
+      "endTime": "2025-12-01T23:59:00Z",
+      "divisionCount": 18,
+      "leaderboardTrackingEventId": "epicgames_ranked_zb_season37",
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "d12345",
       "rankingType": "delmar-competitive",
       "beginTime": "2023-03-30T00:00:00Z",
@@ -408,6 +418,16 @@
       "divisionCount": 18,
       "leaderboardTrackingEventId": "epicgames_ranked_feral_season34",
       "eventId": "epicgames_ranked_feral_season34"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "k1tt3n",
+      "rankingType": "ranked-br",
+      "beginTime": "2025-08-08T00:00:00Z",
+      "endTime": "2025-12-01T23:59:00Z",
+      "divisionCount": 18,
+      "leaderboardTrackingEventId": "epicgames_ranked_br_season37",
+      "eventId": null
    },
    {
       "gameId": "fortnite",
