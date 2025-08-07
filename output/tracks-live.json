@@ -293,7 +293,7 @@
       "gameId": "fortnite",
       "trackguid": "k1tt3n",
       "rankingType": "ranked-br",
-      "beginTime": "2025-08-07T07:00:00Z",
+      "beginTime": "2025-08-07T07:00:01Z",
       "endTime": "2025-11-01T23:59:00Z",
       "divisionCount": 18,
       "leaderboardTrackingEventId": "epicgames_ranked_br_season37",
@@ -538,6 +538,16 @@
       "divisionCount": 18,
       "leaderboardTrackingEventId": "epicgames_ranked_blastberry_zb_season36",
       "eventId": null
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "t3ab4g",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2025-08-07T07:00:01Z",
+      "endTime": "2025-11-01T23:59:00Z",
+      "divisionCount": 18,
+      "leaderboardTrackingEventId": "epicgames_ranked_rr_season8",
+      "eventId": "epicgames_ranked_rr_season8"
    },
    {
       "gameId": "fortnite",
