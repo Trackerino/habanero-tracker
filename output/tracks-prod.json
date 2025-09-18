@@ -751,6 +751,16 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "th3wh0",
+      "rankingType": "delmar-competitive",
+      "beginTime": "2025-11-01T00:00:00Z",
+      "endTime": "2026-05-01T00:00:00Z",
+      "divisionCount": 18,
+      "leaderboardTrackingEventId": "epicgames_ranked_rr_season9",
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "v1x322",
       "rankingType": "ranked-br",
       "beginTime": "2023-10-03T00:01:00Z",
