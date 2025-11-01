@@ -381,6 +381,16 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "m0rt4l",
+      "rankingType": "ranked-br",
+      "beginTime": "2025-11-01T16:00:01Z",
+      "endTime": "2025-11-30T23:59:00Z",
+      "divisionCount": 18,
+      "leaderboardTrackingEventId": "epicgames_ranked_br_season38",
+      "eventId": "epicgames_ranked_br_season38"
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "M3M0RY",
       "rankingType": "ranked-figment-build",
       "beginTime": "2024-12-16T14:00:00Z",
