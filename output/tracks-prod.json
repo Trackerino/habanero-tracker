@@ -401,6 +401,16 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "dut13s",
+      "rankingType": "ranked-zb",
+      "beginTime": "2025-11-30T00:00:00Z",
+      "endTime": "2026-05-01T23:59:00Z",
+      "divisionCount": 18,
+      "leaderboardTrackingEventId": "epicgames_ranked_zb_season39",
+      "eventId": null
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "Fr3SkA",
       "rankingType": "ranked-br",
       "beginTime": "2024-09-15T05:00:00Z",
@@ -768,6 +778,16 @@
       "divisionCount": 18,
       "leaderboardTrackingEventId": "epicgames_ranked_blastberry_build_season33",
       "eventId": "epicgames_ranked_blastberry_build_season33"
+   },
+   {
+      "gameId": "fortnite",
+      "trackguid": "sw0rd2",
+      "rankingType": "ranked-br",
+      "beginTime": "2025-11-30T00:00:00Z",
+      "endTime": "2026-05-01T23:59:00Z",
+      "divisionCount": 18,
+      "leaderboardTrackingEventId": "epicgames_ranked_br_season39",
+      "eventId": null
    },
    {
       "gameId": "fortnite",
