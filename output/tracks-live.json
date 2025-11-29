@@ -241,6 +241,16 @@
    },
    {
       "gameId": "fortnite",
+      "trackguid": "F0RC3D",
+      "rankingType": "ranked-feral",
+      "beginTime": "2025-11-29T19:30:01Z",
+      "endTime": "2026-04-01T23:59:00Z",
+      "divisionCount": 18,
+      "leaderboardTrackingEventId": "epicgames_ranked_feral_season39",
+      "eventId": "epicgames_ranked_feral_season37"
+   },
+   {
+      "gameId": "fortnite",
       "trackguid": "Fr3SkA",
       "rankingType": "ranked-br",
       "beginTime": "2024-11-02T06:00:01Z",
