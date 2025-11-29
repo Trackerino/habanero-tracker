@@ -224,7 +224,7 @@
       "trackguid": "Dr4g0N",
       "rankingType": "ranked_blastberry_build",
       "beginTime": "2025-10-09T08:00:01Z",
-      "endTime": "2026-03-01T23:59:00Z",
+      "endTime": "2025-11-29T19:30:00Z",
       "divisionCount": 18,
       "leaderboardTrackingEventId": "epicgames_ranked_blastberry_build_season37v2",
       "eventId": "epicgames_ranked_blastberry_build_season37"
@@ -264,7 +264,7 @@
       "trackguid": "g0Tc5A",
       "rankingType": "ranked_blastberry_nobuild",
       "beginTime": "2025-10-09T08:00:01Z",
-      "endTime": "2026-03-01T23:59:00Z",
+      "endTime": "2025-11-29T19:30:00Z",
       "divisionCount": 18,
       "leaderboardTrackingEventId": "epicgames_ranked_blastberry_zb_season37v2",
       "eventId": "epicgames_ranked_blastberry_zb_season37"
@@ -334,7 +334,7 @@
       "trackguid": "H4CK3D",
       "rankingType": "ranked-feral",
       "beginTime": "2025-09-10T08:10:01Z",
-      "endTime": "2026-12-01T23:59:00Z",
+      "endTime": "2025-11-29T19:30:00Z",
       "divisionCount": 18,
       "leaderboardTrackingEventId": "epicgames_ranked_feral_season37",
       "eventId": "epicgames_ranked_feral_season36"
